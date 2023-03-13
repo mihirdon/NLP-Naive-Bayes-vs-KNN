@@ -2,8 +2,10 @@
 
 Naive Bayes Results (Trump = Positive,  Obama = Negative)
 
-<img width="660" alt="Naive_Bayes_Scatterplot" src="https://user-images.githubusercontent.com/87667562/224467394-c5fb2b34-97da-493e-9752-90f4e16377a9.png">
-<img width="821" alt="Naive_Bayes_Metrics" src="https://user-images.githubusercontent.com/87667562/224467401-83da25da-061e-4a41-81c0-4249d86b51e2.png">
+
+<img width="661" alt="Naive Bayes Scatterplot" src="https://user-images.githubusercontent.com/87667562/224600253-5f1bdeb4-fb7d-4bc6-8a07-efaf428bf009.png">
+<img width="817" alt="Naive_Bayes_Metrics" src="https://user-images.githubusercontent.com/87667562/224600255-f5dfeedb-5738-4f99-973f-3fbcb75e2619.png">
+
 
 
 KNN Results
